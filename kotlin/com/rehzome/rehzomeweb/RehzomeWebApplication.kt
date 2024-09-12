@@ -8,4 +8,5 @@ class RehzomeWebApplication
 
 fun main(args: Array<String>) {
     runApplication<RehzomeWebApplication>(*args)
+
 }
